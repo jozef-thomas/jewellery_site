@@ -1,0 +1,29 @@
+{
+    "name": "Jewellery App",
+    "short_name": "Jewellery App",
+    "icons": [
+        {
+        "src": "./assets/f686267024964788c16cc51d91fe6073.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+
+        },
+        {
+            "src": "./assets/f686267024964788c16cc51d91fe6073.png",
+            "sizes": "384x384",
+            "type": "image/png"   
+        },
+        {
+            "src": "./assets/f686267024964788c16cc51d91fe6073.png",
+            "sizes": "512x512",
+            "type": "image/png"     
+        }
+
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/jewellery_site/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
